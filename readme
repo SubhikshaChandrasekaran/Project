@@ -1,0 +1,4 @@
+Main.tcl contains node formation ftpconnection malicious node definition
+LDK.cc contains algorithm implementation part
+IDSgrey for implementation of IDS for grayholeattack 
+degree.txt output which contains extracted source node and its onehop neighbor
